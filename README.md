@@ -1,3 +1,3 @@
 # soujanya.repo
 Hi,
-  thia is my first file in Github.
+  This is my first file in Github.
